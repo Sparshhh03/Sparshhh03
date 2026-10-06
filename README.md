@@ -69,14 +69,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Sparshhh03&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-  <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sparshhh03&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" />
+  <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Sparshhh03&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d1117&border_color=30363d&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950" />
+  <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sparshhh03&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=3fb950&text_color=c9d1d9" />
   <br />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Sparshhh03&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Sparshhh03&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=3FB950&fire=3FB950&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E" />
 </div>
 
 ---
 
 <div align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sparshhh03&label=Profile%20views&color=58a6ff&style=flat-square" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sparshhh03&label=Profile%20views&color=3fb950&style=flat-square" />
 </div>
