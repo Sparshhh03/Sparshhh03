@@ -1,9 +1,16 @@
-# 💫 About Me:
-<div align="center"><br>  <h3>Hey! This is Sparsh 👋</h3><br>  <p>⚡Learning, building, shipping.</p><br></div>
+<div align="center">
 
+<h3>Hey! This is Sparsh 👋</h3>
+<p>⚡ Learning, building, shipping.</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sparsh-ranjan-577a76382) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sparshranjan688@gmail.com) 
+<p><i>"Simplicity is prerequisite for reliability."</i> — Edsger W. Dijkstra</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sparsh-ranjan-577a76382)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sparshranjan688@gmail.com)
+
+</div>
+
+---
 
 ## 💻 Tech Stack
 
@@ -49,24 +56,27 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
 
+---
+
 ## 🎮 My Contribution Graph
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sparshhh03/Sparshhh03/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sparshhh03/Sparshhh03/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sparshhh03/Sparshhh03/output/pacman-contribution-graph.svg">
-</picture>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sparshhh03&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sparshhh03&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sparshhh03&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sparshhh03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Sparshhh03/Sparshhh03/output/pacman.svg" />
+</div>
 
 ---
-[![Profile Views](https://komarev.com/ghpvc/?username=Sparshhh03&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Sparshhh03)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Sparshhh03&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sparshhh03&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" />
+  <br />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Sparshhh03&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+</div>
+
+---
+
+<div align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sparshhh03&label=Profile%20views&color=58a6ff&style=flat-square" />
+</div>
