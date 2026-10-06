@@ -48,6 +48,14 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
+
+## 🎮 My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sparshhh03/Sparshhh03/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sparshhh03/Sparshhh03/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sparshhh03/Sparshhh03/output/pacman-contribution-graph.svg">
+</picture>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Sparshhh03&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Sparshhh03&theme=radical&hide_border=false)<br/>
@@ -60,4 +68,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sparshhh03&icon=1&color=11)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sparshhh03&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Sparshhh03)
