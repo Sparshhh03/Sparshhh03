@@ -72,7 +72,7 @@
   <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Sparshhh03&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d1117&border_color=30363d&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950" />
   <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sparshhh03&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=3fb950&text_color=c9d1d9" />
   <br />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Sparshhh03&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=3FB950&fire=3FB950&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Sparshhh03&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=3FB950&fire=3FB950&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E&v=20261009" />
 </div>
 
 ---
